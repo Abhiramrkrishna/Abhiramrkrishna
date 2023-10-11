@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a Bin Picking project where I semantically segment the synthetic images created using Blender <br>
+I am currently working on a Bin Picking project where I semantically segment the synthetic images created using Blender to improve the localization accuracy of the shafts in the bin. <br>
 
 
 # 💻 Tech Stack:
