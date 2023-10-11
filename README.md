@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on autonomous driving vehicles with computer vision and object detection<br>
+I am currently working on a Bin Picking project where I semantically segment the synthetic images created using Blender <br>
 
 
 # 💻 Tech Stack:
