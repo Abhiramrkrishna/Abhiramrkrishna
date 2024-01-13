@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a Bin Picking project where I semantically segmented the synthetic images created using Blender to improve the localization accuracy of the shafts in the bin. <br>
+I am currently working on a Bin Picking project of Flanges where I model, build texture, set illumination, and script to generate the synthetic images created using Blender to improve the localization accuracy of the shafts in the bin. <br>
 
 
 # 💻 Tech Stack:
