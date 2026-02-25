@@ -1,10 +1,10 @@
 # Hi there, I'm Abhiram Radha Krishna 👋
 
-**Interdisciplinary Researcher (M.Eng. Mechatronics) | [cite_start]Applied & Foundational AI** [cite: 2, 10]
+**Interdisciplinary Researcher (M.Eng. Mechatronics) | [cite_start]Applied & Foundational AI**
 
 🔗 **Portfolio & Detailed Case Studies:** [radhakrishnaabhiram.vercel.app](https://radhakrishnaabhiram.vercel.app/)
 
-I bridge the gap between heavy-duty engineering and cutting-edge artificial intelligence. [cite_start]My research focuses on developing physically-constrained machine learning models to solve complex, large-scale problems in energy systems, robotics, and medical signal processing[cite: 51]. 
+I bridge the gap between heavy-duty engineering and cutting-edge artificial intelligence. [cite_start]My research focuses on developing physically-constrained machine learning models to solve complex, large-scale problems in energy systems, robotics, and medical signal processing. 
 
 ---
 
@@ -12,19 +12,19 @@ I bridge the gap between heavy-duty engineering and cutting-edge artificial inte
 
 * **[A Guided Ethics Assessment for Early Prototypes in AI Education](https://dl.acm.org/doi/10.1145/3777490.3777492)**
   * [cite_start]*Presented at the HCAI Conference-ep '26, Maynooth University, Ireland.*  
-  * Published in the ACM Digital Library. Formulated a "rules-as-data" architecture to bridge the gap between high-level ethical principles (e.g., EU AI Act) and technical prototype development[cite: 148, 149].
+  * Published in the ACM Digital Library. Formulated a "rules-as-data" architecture to bridge the gap between high-level ethical principles (e.g., EU AI Act) and technical prototype development.
 * **[Self-Similar Super-Resolution of MSG Irradiation Images for PV Estimation](https://doi.org/10.24406/publica-4797)**
-  * *Master's Thesis at Fraunhofer IEE.* [cite: 104]
-  * [cite_start]Validated a physically-constrained EDSR framework for satellite data, reducing RMSE by 14-25% while enforcing energy conservation[cite: 106, 109, 112]. *(Code is proprietary/closed-source).*
+  * *Master's Thesis at Fraunhofer IEE.* 
+  * [cite_start]Validated a physically-constrained EDSR framework for satellite data, reducing RMSE by 14-25% while enforcing energy conservation. *(Code is proprietary/closed-source).*
 
 ---
 
 ## 🔬 Core Interests
 
-* [cite_start]**Applied AI:** Developing robust, spatio-temporal deep learning models and Physics-Informed Neural Networks (PINNs)[cite: 51, 125].
-* **Neuro-Symbolic AI:** Fusing deterministic mathematical constraints with large language models to prevent hallucination in critical fields like clinical triage[cite: 117, 119].
-* [cite_start]**Edge AI & Quantization:** Optimizing massive 7B+ parameter multi-agent systems using 4-bit quantization for consumer-grade hardware (dual T4 GPUs)[cite: 122].
-* [cite_start]**Optimization:** Designing adaptive metaheuristic and hyperparameter optimization (HPO) algorithms[cite: 52, 141].
+* [cite_start]**Applied AI:** Developing robust, spatio-temporal deep learning models and Physics-Informed Neural Networks (PINNs).
+* **Neuro-Symbolic AI:** Fusing deterministic mathematical constraints with large language models to prevent hallucination in critical fields like clinical triage.
+* [cite_start]**Edge AI & Quantization:** Optimizing massive 7B+ parameter multi-agent systems using 4-bit quantization for consumer-grade hardware (dual T4 GPUs).
+* [cite_start]**Optimization:** Designing adaptive metaheuristic and hyperparameter optimization (HPO) algorithms.
 
 ---
 
@@ -34,9 +34,9 @@ I bridge the gap between heavy-duty engineering and cutting-edge artificial inte
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **Project Sanjeevani** | A 3-stage AI safety workflow for CKD triage. [cite_start]Built a custom CNN-Transformer to deconvolve 1D NMR spectra and integrated quantized PaliGemma/MedGemma models for clinical EMR drafting[cite: 116, 118, 121]. | `PyTorch`, `Neuro-Symbolic AI`, `LLMs`, `Edge AI` | 🔓 Open Source |
-| **PINNs for Heat Transfer** | [cite_start]Engineered a PyTorch-based Physics-Informed Neural Network (PINN) to solve the 1D Heat Equation, using a composite loss function based on the PDE's residual[cite: 126, 127]. | `PINNs`, `PDE Solvers`, `Data-Driven AI` | 🔓 Open Source |
-| **Robotic Bin Picking** | Integrated an ABB Yumi robot with a RealSense 3D camera. [cite_start]Solved complex 3D coordinate transformations and trained custom YOLOv5 models using hybrid real/synthetic datasets via Blender[cite: 130, 131, 133]. | `ROS`, `Blender`, `Computer Vision`, `C#` | 🔓 Open Source |
+| **Project Sanjeevani** | A 3-stage AI safety workflow for CKD triage. [cite_start]Built a custom CNN-Transformer to deconvolve 1D NMR spectra and integrated quantized PaliGemma/MedGemma models for clinical EMR drafting. | `PyTorch`, `Neuro-Symbolic AI`, `LLMs`, `Edge AI` | 🔓 Open Source |
+| **PINNs for Heat Transfer** | [cite_start]Engineered a PyTorch-based Physics-Informed Neural Network (PINN) to solve the 1D Heat Equation, using a composite loss function based on the PDE's residual. | `PINNs`, `PDE Solvers`, `Data-Driven AI` | 🔓 Open Source |
+| **Robotic Bin Picking** | Integrated an ABB Yumi robot with a RealSense 3D camera. [cite_start]Solved complex 3D coordinate transformations and trained custom YOLOv5 models using hybrid real/synthetic datasets via Blender. | `ROS`, `Blender`, `Computer Vision`, `C#` | 🔓 Open Source |
 
 ---
 
@@ -55,5 +55,5 @@ I bridge the gap between heavy-duty engineering and cutting-edge artificial inte
 
 ## 📫 Let's Connect
 * **Portfolio:** [radhakrishnaabhiram.vercel.app](https://radhakrishnaabhiram.vercel.app/)
-* **LinkedIn:** [Insert LinkedIn Link Here]
-* [cite_start]**Location:** Stuttgart, Germany 🇩🇪 [cite: 8]
+* **LinkedIn:** [(https://www.linkedin.com/in/abhiram-r-krishna1]
+* [cite_start]**Location:** Stuttgart, Germany 🇩🇪 
