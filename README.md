@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on an AI ethics framework for students. <br>
+I am currently working on building a job scout agent for my personal use case. <br>
 
 
 # 💻 Tech Stack:
