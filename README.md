@@ -55,5 +55,5 @@ I bridge the gap between heavy-duty engineering and cutting-edge artificial inte
 
 ## 📫 Let's Connect
 * **Portfolio:** [radhakrishnaabhiram.vercel.app](https://radhakrishnaabhiram.vercel.app/)
-* **LinkedIn:** [https://linkedin.com/in/abhiram-r-krishna1]
+* **LinkedIn:** [[https://linkedin.com/in/abhiram-r-krishna1](https://www.linkedin.com/in/abhiram-r-krishna1/)]
 * [cite_start]**Location:** Stuttgart, Germany 🇩🇪 
