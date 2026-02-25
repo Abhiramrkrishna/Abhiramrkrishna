@@ -1,18 +1,49 @@
-# 💫 About Me:
-I am currently working on building a job scout agent for my personal use case. <br>
+# Hi there, I'm Abhiram Radha Krishna 👋
 
+**Interdisciplinary Researcher (M.Eng. Mechatronics) | Applied & Foundational AI**
 
-# 💻 Tech Stack:
-![OpenCV](https://img.shields.io/badge/opencv-3670A0?style=for-the-badge&logo=Opencv&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/pytorch-%23008080.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Tensorflow](https://img.shields.io/badge/Tensorflow-%23D00000.svg?style=for-the-badge&logo=Tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Yolo](https://img.shields.io/badge/yolo-%23EE4C2C.svg?style=for-the-badge&logo=yolo&logoColor=white) ![Keras](https://img.shields.io/badge/keras-%23F7931E.svg?style=for-the-badge&logo=keras&logoColor=white) ![Scikit_Learning](https://img.shields.io/badge/Scikit_Learn-%23FF6F00.svg?style=for-the-badge&logo=Scikit_Learn&logoColor=white) ![Object Detection](https://img.shields.io/badge/Object_Detection-FCC624?style=for-the-badge&logo=object_Detection&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhiramrkrishna&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhiramrkrishna&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramrkrishna&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🔗 **Portfolio & Detailed Case Studies:** [radhakrishnaabhiram.vercel.app](https://radhakrishnaabhiram.vercel.app/)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhiramrkrishna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[cite_start]I bridge the gap between heavy-duty engineering and cutting-edge artificial intelligence[cite: 10]. [cite_start]My research focuses on developing physically-constrained machine learning models to solve complex, large-scale problems in energy systems, robotics, and medical signal processing[cite: 10, 51]. 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhiramrkrishna&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔬 Current Research & Core Interests
+
+* [cite_start]**Applied AI:** Developing robust, spatio-temporal deep learning models and Physics-Informed Neural Networks (PINNs)[cite: 51].
+* [cite_start]**Neuro-Symbolic AI:** Fusing deterministic mathematical constraints with large language models to prevent hallucination in critical fields like clinical triage[cite: 116, 117, 119].
+* [cite_start]**Edge AI & Quantization:** Optimizing massive 7B+ parameter multi-agent systems using 4-bit quantization for consumer-grade hardware (dual T4 GPUs)[cite: 122].
+* [cite_start]**Optimization:** Designing adaptive metaheuristic and hyperparameter optimization (HPO) algorithms[cite: 52].
+
+---
+
+## 🏆 Featured Work & Engineering Projects
+
+*Check out my [portfolio website](https://radhakrishnaabhiram.vercel.app/) for deep-dive visual case studies on these projects.*
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **Project Sanjeevani** | [cite_start]A 3-stage AI safety workflow for CKD triage[cite: 120]. [cite_start]Built a custom CNN-Transformer to deconvolve 1D NMR spectra and integrated quantized PaliGemma/MedGemma models for clinical EMR drafting[cite: 118, 121]. | [cite_start]`PyTorch`, `Neuro-Symbolic AI`, `LLMs`, `Edge AI` [cite: 117] | 🔓 Open Source |
+| **MSG Super-Resolution** | [cite_start]*Master's Thesis at Fraunhofer IEE.* Developed a physically-constrained EDSR model to enhance satellite irradiation images while strictly enforcing energy conservation[cite: 104, 109]. | [cite_start]`Python`, `Deep Learning`, `Spatio-Temporal Analysis` [cite: 104] | [cite_start]🔒 Closed Source / [Read Publication](https://doi.org/10.24406/publica-4797) [cite: 104] |
+| **PINNs for Heat Transfer** | [cite_start]Engineered a PyTorch-based Physics-Informed Neural Network (PINN) to solve the 1D Heat Equation, using a composite loss function based on the PDE's residual[cite: 126, 127]. | [cite_start]`PINNs`, `PDE Solvers`, `Data-Driven AI` [cite: 125] | 🔓 Open Source |
+| **Robotic Bin Picking** | [cite_start]Integrated an ABB Yumi robot with a RealSense 3D camera[cite: 131]. [cite_start]Solved complex 3D coordinate transformations and trained custom YOLOv5 models using hybrid real/synthetic datasets via Blender[cite: 133, 134]. | [cite_start]`ROS`, `Blender`, `Computer Vision`, `C#` [cite: 130] | 🔓 Open Source |
+
+---
+
+## 💻 Technical Arsenal
+
+**Languages & Core:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI & Data Science:**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Optuna](https://img.shields.io/badge/Optuna-20232A?style=for-the-badge&logo=linux&logoColor=white)
+
+**Systems, Web & Robotics:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 📫 Let's Connect
+* **Portfolio:** [radhakrishnaabhiram.vercel.app](https://radhakrishnaabhiram.vercel.app/)
+* **LinkedIn:** [Insert LinkedIn Link Here]
+* [cite_start]**Location:** Stuttgart, Germany 🇩🇪 [cite: 8]
