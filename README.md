@@ -10,6 +10,8 @@ I bridge the gap between heavy-duty engineering and cutting-edge artificial inte
 
 ## 📚 Publications & Research
 
+* **[Self-similar, pixel-conserving super-resolution of meteosat irradiation for PV](https://doi.org/10.1016/j.solener.2026.114595)**
+  * *Published in the Solar Energy Journal by Elsevier, Date: 1 July 2026, Article: 114595, Volume: Volume 312.*
 * **[A Guided Ethics Assessment for Early Prototypes in AI Education](https://dl.acm.org/doi/10.1145/3777490.3777492)**
   * *Presented at the HCAI Conference-ep '26, Maynooth University, Ireland.*  
   * Published in the ACM Digital Library. Formulated a "rules-as-data" architecture to bridge the gap between high-level ethical principles (e.g., EU AI Act) and technical prototype development.
